@@ -10,7 +10,7 @@ def summon_captain_planet(forces)
   end
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(long_planeteer_calls)
   # Your code here
   answer = false
   long_planteer_calls.each do |call|
